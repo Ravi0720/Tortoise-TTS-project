@@ -1,0 +1,7 @@
+fastapi==0.115.2
+uvicorn==0.32.0
+tortoise-tts==3.0.0
+numpy==1.26.4
+scipy==1.14.1
+torch==2.4.1
+python-multipart==0.0.12
